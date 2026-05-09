@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "CustomFootprints") (type "KiCad") (uri "/media/f191/Storage Drive/KiCad/CustomContent/CustomFootprints.pretty") (options "") (descr ""))
+	(lib (name "CustomFootprints") (type "KiCad") (uri "/media/f191/Storage Drive/KiCad/CustomContent/CustomFootprints.pretty") (options "") (descr ""))
+)
